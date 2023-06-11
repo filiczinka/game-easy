@@ -63,3 +63,16 @@ body {
 	width: 100%;
 	background-color: black;
 }
+
+.winner {
+	color: greenyellow;
+}
+
+.looser {
+	color: red;
+}
+
+#score__points {
+	border-radius: 25px;
+	background-color: aqua;
+}
